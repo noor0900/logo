@@ -1,0 +1,74 @@
+form{
+    background-color: rgba(32, 13, 17, 0.397);
+    margin-top: 2%;
+    margin-left: 30%;
+    max-width: 550px;
+    border: 2px solid black;
+    padding: 30px;
+    border-radius: 10px;
+    
+
+}
+label{
+    display: block;
+    font-size: 40px;
+    margin-top: 20px;
+    
+}
+input[type="text"],
+    input[type="email"],
+    input[type="password"]{
+    width: 99%;
+    padding: 10px;
+    margin-top: 2%;
+    font-size: 20px;
+    background-color: rgba(42, 159, 180, 0.205);
+    border-radius: 10px;
+    cursor: pointer;
+}
+input[type="CREATE ACCOUNT"]:hover{
+    background-color: rgba(21, 158, 39, 0.404);
+}
+input[type="CREATE ACCOUNT"]{
+
+        background-color: rgba(25, 0, 255, 0.336);
+        color: rgba(230, 223, 213, 0.534);
+        padding: 15px;
+        border: 2px solid rgba(0, 0, 0, 0.678);
+        cursor: pointer;
+        font-size: 15px;
+        width: 95%;
+        text-align: center;
+        border-radius: 10px;
+}
+body{
+    background-image: url(../asserts/img2.jpg);
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+.ww input[type="checkbox"]{
+    color: blue;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20%;
+    
+  
+}
+.ww label{
+    display: inline-block;
+    color: khaki;
+    font-size: 20px;
+    margin-bottom: 10px;
+   
+   
+}
+
+.ss{
+    text-align: center;
+    font-size: 20px;
+    color: khaki;
+}
